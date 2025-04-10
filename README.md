@@ -1,5 +1,4 @@
 # Create Project Template
-# ROS Docker Project Template 🐳🤖
 
 A clean, reusable template for setting up Docker-based ROS (Noetic) projects.
 
