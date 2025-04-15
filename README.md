@@ -20,7 +20,7 @@ Use the helper script to scaffold a new project:
 
 ```bash
 cd <where-you-want-your-project>
-path/to/the/create_ros_project.sh ./my_project_name
+bash path/to/the/create_ros_project.sh ./my_project_name
 ```
 
 ---
